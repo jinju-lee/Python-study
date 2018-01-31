@@ -1,0 +1,7 @@
+print('ABCD'.isupper())
+print('abcd'.isalpha())
+print('abc123'.isalnum())
+print('abcd'.islower())
+print('ABCD'.isupper())
+print('   '.isspace())
+print('가나다'.isupper())
