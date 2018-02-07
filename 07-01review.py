@@ -1,0 +1,6 @@
+f=open("c:\\test.txt", "r")
+print(f.readline())
+print(f.tell())
+print(f.seek(0))
+print(f.readline())
+print(f.tell())
